@@ -1,0 +1,15 @@
+{
+  "name": "psingh/routing-demo",
+  "authors":
+  [
+    {
+      "name": "Parminder Singh",
+      "email": "psingh35@mail.greenriver.edu"
+    }
+  ],
+  "require" :
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
